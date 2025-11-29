@@ -1,2 +1,2 @@
-# Auto-UPPERCASE-Column-in-Google-Sheets-with-Apps-Script
-Mini-Automation for Google Sheets
+# Auto_UPPERCASE_Column
+Mini-Automation for Google Sheets (with Apps Script)
